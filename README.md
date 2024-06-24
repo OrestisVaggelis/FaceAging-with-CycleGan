@@ -29,7 +29,7 @@ Example for the base model:
 python inference.py --model base --gen o --input /path/to/input_image.jpg --output /path/to/output_image.jpg
 ```
 
-Example for the base model:
+Example for the attention model:
 ```bash
 python inference.py --model attention --gen y --input /path/to/input_image.jpg --output /path/to/output_image.jpg
 ```
