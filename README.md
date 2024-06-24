@@ -21,7 +21,7 @@ python attention_cyclegan/train_attn_cyclegan.py
 
 ### Inference
 
-After training, you can perform inference using the trained models. Specify the model type (base or attention), the generator transformation (o for old to young, y for young to old), the path to the input image, and the path where the generated image will be saved.
+After training, you can perform inference using the trained models. Specify the model type (base or attention), the generator transformation (o for young to old, y for old to young), the path to the input image, and the path where the generated image will be saved.
 
 Example for the base model:
 
