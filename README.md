@@ -4,6 +4,7 @@
 git clone https://github.com/OrestisVaggelis/FaceAging-with-CycleGan
 cd FaceAgingCycleGAN
 ```
+
 ### Training
 1. Training the Base CycleGAN Model
 
